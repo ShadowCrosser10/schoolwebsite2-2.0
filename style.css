@@ -1,0 +1,70 @@
+body {
+text-align: center;
+}
+
+.Titlesandheads {
+font-family: 'Cinzel Decorative', cursive;
+}
+
+.line {
+background-color: black;
+height:6px;
+width:70px;
+margin:4px auto;
+}
+
+.Paragraphs {
+font-family: 'Cinzel', serif;
+font-size: 22px;
+font-weight:bold;
+}
+
+.makeBig {
+font-size:22px;
+margin-top:15px;
+}
+img {
+width:60%;
+height:auto;
+}
+
+#mitch {
+width:60%;
+height:auto;
+}
+
+#contact iframe {
+width:60%;
+height:100%;
+}
+
+#contact .a {
+    text-shadow:none;
+     color:white;
+}
+
+#Contact h3 {
+display:inline;
+}
+
+.Make_Inline {
+display:inline;
+}
+
+.features_Div {
+text-align:center;
+    
+}
+
+.Stuff {
+font-size:20px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;
+width:100%;
+display:inline-block; 
+}
+
+.Stuff i {
+float:right;
+}
